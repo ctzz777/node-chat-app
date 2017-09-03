@@ -6,7 +6,7 @@ socket.on('connect', function() {
     // socket.emit('createMessage', {
     //     from: 'Ted',
     //     text: 'Yep?'
-    // })
+    // });
 });
 
 socket.on('disconnect', function() {
